@@ -1,0 +1,36 @@
+.nav-item{
+    padding: 15px;
+    font-weight: bold;
+}
+
+
+.card{
+    margin: 20px;
+    background: rgba(12, 30, 165, .8);
+    color: rgba(245,229,204,255);
+}
+
+.divider{
+    height: 6rem;
+}
+
+
+.img-icon{
+
+    width: 6rem;
+    height: 6rem;
+    
+}
+
+*{
+    font-family: "Montserrat", sans-serif;
+
+
+}
+
+#box{
+    background-image:url(img/background.jpg);
+
+    color: aliceblue;
+}
+

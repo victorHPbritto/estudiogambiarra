@@ -1,0 +1,14 @@
+acrescentar mais clientes 1 ok
+texto sobre os serviços do estudio ok
+acento em negocio na home ok
+verificar os links da navbar ta quebrando em serviços (dar um <br> depois do id) ok 
+melhorar texto da home ok
+
+
+
+notas da atualização 1.1.0
+
+mudança no layout da seção home e clientes, background mais elegante
+acressimo do slide de 4 clientes (joanes, dos reis, braseng, villa bebe)
+link do whatsapp do estudio
+inclusao fonte montserrat 
